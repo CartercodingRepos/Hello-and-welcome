@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Devilgoldfish
-- 👀 I’m interested in volunteering
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on projects big or small
+- 👀 I’m interested in html, css and JavaScript
+- 🌱 I’m currently learning html, css and JavaScript
+- 💞️ I’m looking to collaborate on projects big and small
 - 📫 How to reach me by email devilgoldfish@gmail.com
 
 <!---
