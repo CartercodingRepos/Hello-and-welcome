@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andrew
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS, Github and JavaScript
 - 📫 How to reach me on www.linkedin.com/in/Cartercoding
               
 
